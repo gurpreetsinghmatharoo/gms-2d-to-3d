@@ -1,0 +1,19 @@
+• To do list:
+
+Tiled skybox
+Grass sprites from your asset
+Grass from background surface
+
+Add exception objects
+
+• Problems
+
+Instances created later don't have the 3D variables
+
+• To add in documentation:
+
+
+• Before publishing:
+
+Set sky sprite to -1
+Comment out last line in o2Dto3D Clean Up event
