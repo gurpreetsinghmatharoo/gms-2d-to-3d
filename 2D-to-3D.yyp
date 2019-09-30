@@ -239,6 +239,14 @@
             }
         },
         {
+            "Key": "8427047f-9ef8-4c77-89f3-9c20623d07b6",
+            "Value": {
+                "id": "97c36a2f-f140-4a79-92a3-3fef8735cdce",
+                "resourcePath": "options\\ios\\options_ios.yy",
+                "resourceType": "GMiOSOptions"
+            }
+        },
+        {
             "Key": "8a866f44-cf87-46d1-979b-649ee965be3f",
             "Value": {
                 "id": "b3bbcd90-2b3b-4b90-a8ca-a8ee71ff33cb",
@@ -263,11 +271,27 @@
             }
         },
         {
+            "Key": "93566aad-c3b3-48a9-8fa7-9c5ee19f74ac",
+            "Value": {
+                "id": "765712e7-4a01-4b64-a8fc-0f4016defc79",
+                "resourcePath": "options\\tvos\\options_tvos.yy",
+                "resourceType": "GMtvOSOptions"
+            }
+        },
+        {
             "Key": "96d7c8ba-dd5e-4fca-94f2-ab6b65fe4b58",
             "Value": {
                 "id": "83cfe94a-23bb-4a25-ae0b-a53895b395a5",
                 "resourcePath": "views\\96d7c8ba-dd5e-4fca-94f2-ab6b65fe4b58.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a128950b-5063-4876-b4a6-b99dbd2ea6d1",
+            "Value": {
+                "id": "dcb35483-a531-4e68-a5a7-33da3a4a34b6",
+                "resourcePath": "options\\amazonfire\\options_amazonfire.yy",
+                "resourceType": "GMAmazonFireOptions"
             }
         },
         {
@@ -428,6 +452,14 @@
                 "id": "0ac3f8d4-79f7-4c56-b622-1f5f0db57d21",
                 "resourcePath": "objects\\o2Dto3D\\o2Dto3D.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
+            "Value": {
+                "id": "060dde49-6524-4f21-8144-02519cca45ce",
+                "resourcePath": "options\\android\\options_android.yy",
+                "resourceType": "GMAndroidOptions"
             }
         },
         {
